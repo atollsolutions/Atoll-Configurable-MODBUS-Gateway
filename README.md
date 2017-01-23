@@ -1,4 +1,14 @@
-#This Start-up document defines How a user can easily configure the Gateway using Atoll Confix Application tool in just 30secs!!!
+# ATOLL_CONFIGURATOR
+The Folder contains the Setup file and User guides for Atoll's Configurable Modbus Gateway.
+The folder includes following documents:
+ 1)Setup file for Application ATOLLCONFIX.
+ 2)Userguide for ATOLLCONFIX.
+ 3)Userguide for Atoll's ARxxxRM and ATxxxRM series of Gateways.
+ 4)4-20mA conversion chart for the series AR501RM42.
+ 5)MODBUS Configuration and SERVER Integration.
+ 6)Server Integration and SMS command set.
+
+This Start-up document defines How a user can easily configure the Gateway using Atoll Confix Application tool in just 30secs!!!
 
 1) Do you want to start Configuring Atoll Modbus RTU Gateway using Atoll Confix ?
 
@@ -9,8 +19,10 @@ Atoll Confix user guide : https://github.com/atollsolutions/Atoll_Configurable_M
 
 2) Download and Install Atoll Confix ?
 
+This setup file will support  Windows OS 7/8/10.
 You can download the setup for Atoll Confix from this URL 
 https://github.com/atollsolutions/Atoll_Configurable_MODBUS_Gateway/blob/master/ATOLLCONFIX05-01-17V1.2.rar
+
 
 3) How do we integrate a MODBUS RTU Device with Atoll MODBUS RTU Gateway using Atoll confix?
 
