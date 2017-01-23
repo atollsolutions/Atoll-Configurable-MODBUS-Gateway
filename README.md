@@ -1,4 +1,4 @@
-#This Start-up document that defines How a user can easily configure the Gateway using Atoll Confix Application tool in just 30secs!!!
+#This Start-up document defines How a user can easily configure the Gateway using Atoll Confix Application tool in just 30secs!!!
 
 1) Do you want to start Configuring Atoll Modbus RTU Gateway using Atoll Confix ?
 
