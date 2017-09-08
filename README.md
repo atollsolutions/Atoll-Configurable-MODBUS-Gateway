@@ -13,7 +13,7 @@ This Start-up document defines How a user can easily configure the Gateway using
 1) Do you want to start Configuring Atoll Modbus RTU Gateway using Atoll Confix ?
 
  Atoll Confix Brochure :
-https://github.com/atollsolutions/Atoll_Configurable_MODBUS_Gateway/blob/master/ATOLL%20CONFIX%20BROCHURE%2021_DEC_2016.pdf
+https://github.com/atollsolutions/Atoll_Configurable_MODBUS_Gateway/blob/master/ATOLL%20CONFIX%20BROCHURE%208%20sept%202017.pdf
 
 Atoll Confix user guide : https://github.com/atollsolutions/Atoll_Configurable_MODBUS_Gateway/blob/master/AtollConfix%20Userguide%2021_dec_2016.pdf
 
